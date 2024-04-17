@@ -1,0 +1,39 @@
+.navbar.navbar-dark.bg-rgb {
+    background-color: rgb(213, 184, 206) !important;
+  }
+
+.best_color {
+    color:rgb(213, 184, 206)
+}
+
+.ol {
+    font: var(--bs-body-font-family);
+    font-size: 25px;
+    color:rgb(213, 184, 206);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.yay {
+    background-color: rgb(234, 234, 233);
+}
+
+.yes {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    color:rgb(126, 120, 120);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.reg_text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(126, 120, 120);
+    font-size: 17px;
+}
+
+.oh {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    color:rgb(126, 120, 120);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
